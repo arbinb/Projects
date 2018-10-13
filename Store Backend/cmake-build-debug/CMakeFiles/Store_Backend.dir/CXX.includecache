@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Customer.cpp
+Customer.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Customer.h
+ostream
+-
+sstream
+-
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Customer.h
+string
+-
+vector
+-
+Product.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Product.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Product.cpp
+Product.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Product.h
+string
+-
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Product.h
+string
+-
+sstream
+-
+iostream
+-
+strstream
+-
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Store.cpp
+Store.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Store.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Store.h
+string
+-
+vector
+-
+Product.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Product.h
+Customer.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Customer.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/main.cpp
+iostream
+-
+Product.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Product.h
+Customer.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Customer.h
+Store.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Store Backend/Store.h
+strstream
+-
+sstream
+-
+

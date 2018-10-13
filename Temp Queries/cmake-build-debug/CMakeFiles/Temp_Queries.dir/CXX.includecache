@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/LinkedList.cpp
+iostream
+-
+string
+-
+LinkedList.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/LinkedList.h
+Node.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/Node.h
+ostream
+-
+string
+-
+sstream
+-
+math.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/math.h
+algorithm
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/algorithm
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/LinkedList.h
+iostream
+-
+string
+-
+vector
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/vector
+Node.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/Node.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/Node.cpp
+string
+-
+Node.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/Node.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/Node.h
+TemperatureData.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureData.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureData.cpp
+TemperatureData.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureData.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureData.h
+string
+-
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureDatabase.cpp
+TemperatureDatabase.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureDatabase.h
+fstream
+-
+sstream
+-
+ostream
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/ostream
+string
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/string
+math.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/math.h
+iomanip
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/iomanip
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureDatabase.h
+string
+-
+fstream
+-
+sstream
+-
+LinkedList.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/LinkedList.h
+Node.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/Node.h
+
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/main.cpp
+TemperatureDatabase.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/TemperatureDatabase.h
+iostream
+-
+sstream
+-
+math.h
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/math.h
+algorithm
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/algorithm
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+iomanip
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/iomanip
+ios
+/Users/arbinbhuiyan/Programming/CLionProjects/CSCE-121/Homework/Temp Queries/ios
+
